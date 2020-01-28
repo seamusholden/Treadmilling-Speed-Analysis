@@ -1,0 +1,3 @@
+[console_scripts]
+analyze_tracks_cli = analyze_tracks.main_cli:main
+
